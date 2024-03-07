@@ -5,3 +5,12 @@
 .navbar{
     background-color: red;
 }
+.nav-link{
+    color: black !important;
+}
+.container-fluid{
+    font-size: x-large;
+}
+.navbar-brand{
+    font-size: x-large;
+}
