@@ -70,3 +70,25 @@ footer{
     text-align: center;
     font-size: 20px;
 }
+.contacto{
+    color:black;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+}
+.contacto a:hover{
+    color: azure;
+}
+.contacto a{
+    color:black;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 15px;
+    text-align: left;
+}
+.container-form form .campo, textarea{
+    width: 100%;
+    padding: 15px 10px;
+    font-size: 15px;
+    border: 1px;
+}
