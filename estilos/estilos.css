@@ -66,3 +66,7 @@ footer{
 .redes a:hover{
     color: azure;
 }
+.infotexto{
+    text-align: center;
+    font-size: 20px;
+}
