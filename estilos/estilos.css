@@ -96,12 +96,13 @@ footer{
     border: 1px;
 }
 .nosotros{
-    min-height: 100vh;
+    min-height: 90vh;
     position: relative;
     z-index: 1;
     text-align: center;
     color: aliceblue;
     font-size: 25px;
+    margin-top: 20px;
 }
 video{
     position: absolute;
