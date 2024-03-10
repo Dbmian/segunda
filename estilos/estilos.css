@@ -113,9 +113,12 @@ video{
 }
 .techdesing{
     position: relative;
-    z-index: 1;
+    z-index: 2;
     text-align: center;
     color: aliceblue;
-    font-size: 45px;
-    margin-top: 200px;
+    font-size: 30px;
+    margin-top: 150px;
+}
+.navbar{
+    z-index: 1;
 }
